@@ -26,8 +26,10 @@ I have also created a web page for every one to use
 
 If this helps you in any way and you feel so inclined to donate something, I won't say no :)
 
-BTC: 17ZjS6ZJTCNWrd17kkZpgRHYZJjkq5qT5A
+BTC: 1PhKS4159ocqNdm2Rr3TqSGpC4tSXGHmj4
 
-LTC: LdGQgurUKH2J7iBBPcXWyLKUb8uUgXCfFF
+LTC: LezBwuBNi9fCAq1DtZp6Z9MwdNg8qVKSh3
 
 ETH: 0x6e259a08a1596653cbf66b2ae2c36c46ca123523
+
+DASH: XdvohQjk3A4hukDBNkamDfCHKqYV6XMg55
