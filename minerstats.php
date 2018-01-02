@@ -327,15 +327,19 @@ if (empty($render_html)) {
                 Thank you for your support. If you would like to donate to project to help assist with domain/server/etc. costs, you can do so at the following addresses:
                 <div class="input-group">
                     <span class="input-group-addon" id="basic-addon1">BTC</span>
-                    <input type="text" class="form-control" value="17ZjS6ZJTCNWrd17kkZpgRHYZJjkq5qT5A" aria-describedby="basic-addon1" disabled>
+                    <input type="text" class="form-control" value="1PhKS4159ocqNdm2Rr3TqSGpC4tSXGHmj4" aria-describedby="basic-addon1" disabled>
                 </div>
                 <div class="input-group">
                     <span class="input-group-addon" id="basic-addon1">LTC</span>
-                    <input type="text" class="form-control" value="LdGQgurUKH2J7iBBPcXWyLKUb8uUgXCfFF" aria-describedby="basic-addon1" disabled>
+                    <input type="text" class="form-control" value="LezBwuBNi9fCAq1DtZp6Z9MwdNg8qVKSh3" aria-describedby="basic-addon1" disabled>
                 </div>
                 <div class="input-group">
                     <span class="input-group-addon" id="basic-addon1">ETH</span>
                     <input type="text" class="form-control" value="0x6e259a08a1596653cbf66b2ae2c36c46ca123523" aria-describedby="basic-addon1" disabled>
+                </div>
+		<div class="input-group">
+                    <span class="input-group-addon" id="basic-addon1">DASH</span>
+                    <input type="text" class="form-control" value="XdvohQjk3A4hukDBNkamDfCHKqYV6XMg55" aria-describedby="basic-addon1" disabled>
                 </div>
             </div>
             <div class="modal-footer">
